@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm a Front End Web Developer dedicated to crafting flawless websites and ensuring complete client satisfaction. I thrive on learning and openly sharing my expertise with the community. Solving real-world challenges excites me, and I approach every project with a strategic mindset and clear goals. With a rich portfolio of hundreds of websites created for satisfied clients, I take pride in delivering high-quality work and maintaining excellent communication. My favorite tools include ReactJS and JavaScript.</p>
 
 ###
 
