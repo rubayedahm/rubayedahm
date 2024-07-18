@@ -35,10 +35,11 @@
 ###
 
 <div align="left">
-  <img src="https://ibb.co/qrXJ0DQ" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
-  <img width="12" />
+  <p>✅ HTML5/ CSS3 / SASS / Tailwind CSS / Bootstrap</p>
+  <p>✅ Javascript</p>
+  <p>✅ Reactjs</p>
+  <p>✅ Nodejs</p>
+  <p>✅ MongoDB</p>
 </div>
 
 ###
