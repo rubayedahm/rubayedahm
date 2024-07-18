@@ -35,11 +35,11 @@
 ###
 
 <div align="left">
-  <p>✅ HTML5/ CSS3 / SASS / Tailwind CSS / Bootstrap</p>
-  <p>✅ Javascript</p>
-  <p>✅ Reactjs</p>
-  <p>✅ Nodejs</p>
-  <p>✅ MongoDB</p>
+  <span>✅ HTML5/ CSS3 / SASS / Tailwind CSS / Bootstrap</span>
+  <span>✅ Javascript</span>
+  <span>✅ Reactjs</span>
+  <span>✅ Nodejs</span>
+  <span>✅ MongoDB</span>
 </div>
 
 ###
