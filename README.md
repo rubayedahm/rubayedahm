@@ -35,9 +35,9 @@
 ###
 
 <div align="left">
-  <span>✅ HTML5/ CSS3 / SASS / Tailwind CSS / Bootstrap</span>
-  <span>✅ Javascript</span>
-  <span>✅ Reactjs</span>
+  <span>✅ HTML5/ CSS3 / SASS / Tailwind CSS / Bootstrap</span> <br/>
+  <span>✅ Javascript</span> <br/>
+  <span>✅ Reactjs</span> <br/>
   <span>✅ Nodejs</span>
   <span>✅ MongoDB</span>
 </div>
